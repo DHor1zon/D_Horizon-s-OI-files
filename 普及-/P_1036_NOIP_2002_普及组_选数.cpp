@@ -19,6 +19,5 @@ int main ()
     scanf ("%d%d", &n, &k);
     for (int i = 1; i <= n; ++ i)
         scanf ("%d", &x [i]);
-    for
     return 0;
 }
